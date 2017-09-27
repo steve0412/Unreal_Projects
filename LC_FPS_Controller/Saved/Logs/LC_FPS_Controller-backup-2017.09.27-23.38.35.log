@@ -1,0 +1,1100 @@
+﻿Log file open, 09/27/17 23:04:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: LC_FPS_Controller
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1114554606) SRandInit(1114554606).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.235829
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: D:/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.27-14.04.18:464][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.27-14.04.18:464][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.27-14.04.18:594][  0]LogInit: Computer: DESKTOP-473DMHI
+[2017.09.27-14.04.18:594][  0]LogInit: User: USERPC
+[2017.09.27-14.04.18:594][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.27-14.04.18:594][  0]LogInit: High frequency timer resolution =3.515626 MHz
+[2017.09.27-14.04.18:594][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2017.09.27-14.04.18:594][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.27-14.04.18:594][  0]LogMemory: Process Physical Memory: 278.61 MB used, 278.61 MB peak
+[2017.09.27-14.04.18:594][  0]LogMemory: Process Virtual Memory: 274.02 MB used, 274.02 MB peak
+[2017.09.27-14.04.18:594][  0]LogMemory: Physical Memory: 3679.52 MB used,  12668.02 MB free, 16347.54 MB total
+[2017.09.27-14.04.18:594][  0]LogMemory: Virtual Memory: 668.45 MB used,  12668.02 MB free, 134217728.00 MB total
+[2017.09.27-14.04.19:706][  0]LogInit: Using OS detected language (ko-KR).
+[2017.09.27-14.04.19:706][  0]LogInit: Using OS detected locale (ko-KR).
+[2017.09.27-14.04.19:904][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2017.09.27-14.04.23:497][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.27-14.04.23:566][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.09.27-14.04.23:566][  0]LogD3D11RHI:       8119/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.09.27-14.04.23:568][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.27-14.04.23:568][  0]LogD3D11RHI:       0/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.27-14.04.23:568][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.27-14.04.23:582][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.27-14.04.23:583][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.09.27-14.04.23:583][  0]LogWindows: EnumDisplayDevices:
+[2017.09.27-14.04.23:583][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.09.27-14.04.23:583][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.09.27-14.04.23:584][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.09.27-14.04.23:584][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.09.27-14.04.23:584][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.09.27-14.04.23:584][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.09.27-14.04.23:585][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2017.09.27-14.04.23:585][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2017.09.27-14.04.23:585][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.27-14.04.23:633][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.27-14.04.23:874][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.09.27-14.04.23:986][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Intermediate/Shaders/WorkingDirectory/6368/).
+[2017.09.27-14.04.23:987][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/USER-PC/AppData/Local/Temp/UnrealShaderWorkingDir/04B5CB3F43DEAE439FFCEBA4181352E8/'.
+[2017.09.27-14.04.24:001][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.27-14.04.27:174][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.27-14.04.27:254][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.27-14.04.27:302][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.27-14.04.27:351][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.27-14.04.27:415][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.27-14.04.27:463][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.27-14.04.27:512][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.27-14.04.27:562][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.27-14.04.27:605][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.27-14.04.27:745][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.27-14.04.27:839][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.27-14.04.27:885][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.27-14.04.27:931][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.27-14.04.27:979][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.27-14.04.28:026][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.27-14.04.28:120][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.27-14.04.28:120][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.27-14.04.28:158][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.27-14.04.28:291][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.27-14.04.28:310][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.27-14.04.28:354][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.27-14.04.28:399][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.27-14.04.28:444][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.27-14.04.28:493][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.27-14.04.28:493][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.27-14.04.29:789][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.27-14.04.30:101][  0]LogDerivedDataCache: Loaded boot cache 0.31s 93MB C:/Users/USER-PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.27-14.04.30:101][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/USER-PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.27-14.04.30:101][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.27-14.04.30:101][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.27-14.04.30:102][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.27-14.04.30:102][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.27-14.04.30:154][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.27-14.04.30:167][  0]LogDerivedDataCache: Using Local data cache path C:/Users/USER-PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.27-14.04.30:202][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.27-14.04.30:265][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.27-14.04.30:364][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.27-14.04.30:365][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.27-14.04.37:782][  0]LogAssetRegistry: FAssetRegistry took 0.0571 seconds to start up
+[2017.09.27-14.04.38:850][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.27-14.04.41:389][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.27-14.04.42:439][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.27-14.04.42:508][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.27-14.04.42:519][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.27-14.04.42:521][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.27-14.04.42:521][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.27-14.04.42:521][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.27-14.04.45:076][  0]LogNetVersion: LC_FPS_Controller , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 854716078)
+[2017.09.27-14.04.46:315][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.151081 seconds
+[2017.09.27-14.04.46:334][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.27-14.04.46:334][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.09.27-14.04.46:334][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.27-14.04.46:385][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.27-14.04.55:810][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.27-14.04.55:884][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.27-14.04.57:347][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.27-14.04.58:054][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.09.27-14.04.58:054][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.09.27-14.04.58:163][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.09.27-14.04.58:217][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.09.27-14.04.59:251][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.27-14.04.59:489][  0]LogOcInput: OculusInput pre-init called
+[2017.09.27-14.05.00:252][  0]LogEngine: Initializing Engine...
+[2017.09.27-14.05.00:276][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.27-14.05.01:019][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.27-14.05.01:019][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.27-14.05.01:442][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.27-14.05.01:596][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.05.01:645][  0]LogInit: FAudioDevice initialized.
+[2017.09.27-14.05.01:724][  0]LogDerivedDataCache: Saved boot cache 0.08s 93MB C:/Users/USER-PC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.27-14.05.01:734][  0]LogInit: Texture streaming: Enabled
+[2017.09.27-14.05.01:871][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.27-14.05.02:590][  0]LogInit: Transaction tracking system initialized
+[2017.09.27-14.05.04:018][  0]BlueprintLog: New page: 에디터 로드
+[2017.09.27-14.05.07:050][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2017.09.27-14.05.08:730][  0]LogConsoleResponse: Display: 
+[2017.09.27-14.05.11:852][  0]LogFileCache: Scanning file cache for directory 'D:/전공모음/Unreal_Projects/LC_FPS_Controller/Content/' took 0.04s
+[2017.09.27-14.05.11:852][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.27-14.05.11:852][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.27-14.05.11:901][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.27-14.05.15:793][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2017.09.27-14.05.15:846][  0]Cmd: MAP LOAD FILE="../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Maps/Lets_Create_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.27-14.05.15:952][  0]LightingResults: New page: 라이팅 빌드
+[2017.09.27-14.05.16:158][  0]MapCheck: New page: 맵 체크
+[2017.09.27-14.05.16:158][  0]LightingResults: New page: 라이팅 빌드
+[2017.09.27-14.05.19:577][  0]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.05.20:076][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.27-14.05.20:216][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.27-14.05.20:274][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 58.159ms.
+[2017.09.27-14.05.20:274][  0]LogFileHelpers: Loading map 'Lets_Create_Map' took 4.464
+[2017.09.27-14.05.22:632][  0]LogCollectionManager: Loaded 0 collections in 0.002877 seconds
+[2017.09.27-14.05.23:362][  0]LogFileCache: Scanning file cache for directory 'D:/전공모음/Unreal_Projects/LC_FPS_Controller/Saved/Collections/' took 0.01s
+[2017.09.27-14.05.23:362][  0]LogFileCache: Scanning file cache for directory 'D:/전공모음/Unreal_Projects/LC_FPS_Controller/Content/Developers/USERPC/Collections/' took 0.01s
+[2017.09.27-14.05.23:362][  0]LogFileCache: Scanning file cache for directory 'D:/전공모음/Unreal_Projects/LC_FPS_Controller/Content/Collections/' took 0.01s
+[2017.09.27-14.05.23:362][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.09.27-14.05.23:410][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2386 classes and 500 folders.
+[2017.09.27-14.05.23:644][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0116 seconds. Added 0 classes and 0 folders.
+[2017.09.27-14.05.27:615][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.09.27-14.05.27:924][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0023 seconds. Added 1 classes and 2 folders.
+[2017.09.27-14.05.29:076][  0]LogSlate: Took 0.106866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.27-14.05.29:708][  0]LogSlate: Took 0.622065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2017.09.27-14.05.29:781][  0]LogSlate: Took 0.038723 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.27-14.05.29:938][  0]LogSlate: Took 0.027210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.27-14.05.30:678][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.09.27-14.05.31:489][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2017.09.27-14.05.31:490][  0]LogLoad: (Engine Initialization) Total time: 84.41 seconds
+[2017.09.27-14.05.31:490][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.27-14.05.31:490][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.09.27-14.05.31:922][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.27-14.05.32:144][  0]LogSlate: Took 0.017361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.27-14.05.32:846][  3]LogAssetRegistry: Asset discovery search completed in 55.0872 seconds
+[2017.09.27-14.05.32:849][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.09.27-14.05.32:849][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000075 seconds (updated 0 objects)
+[2017.09.27-14.05.32:864][  3]LogSlate: Took 0.000564 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.27-14.08.32:598][558]LogSlate: Took 0.015514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.27-14.08.32:731][558]LogMetaData: Removing '/Game/Blueprints/super_hot_controller.SKEL_super_hot_controller_C' ref from Metadata '/Game/Blueprints/FPS_Controller1.PackageMetaData'
+[2017.09.27-14.08.32:731][558]LogMetaData: Removing '/Game/Blueprints/super_hot_controller.super_hot_controller_C' ref from Metadata '/Game/Blueprints/FPS_Controller1.PackageMetaData'
+[2017.09.27-14.08.32:767][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/super_hot_controller" FILE="../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/super_hot_controller.uasset" SILENT=true
+[2017.09.27-14.08.32:827][558]LogSavePackage: Save=55.06ms
+[2017.09.27-14.08.32:827][558]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/super_hot_controller06651F464A637A6131126CAFCD431053.tmp' to '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/super_hot_controller.uasset'
+[2017.09.27-14.08.32:842][558]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/super_hot_controller.uasset
+[2017.09.27-14.08.56:310][ 61]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 113 classes and 0 folders.
+[2017.09.27-14.08.57:295][ 61]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.27-14.08.57:919][ 61]LogSlate: Took 0.012485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.09.27-14.08.58:542][ 62]LogSlate: Took 0.013486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.09.27-14.10.11:505][682]LogSlate: Took 0.103371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.09.27-14.11.33:207][567]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2017.09.27-14.13.53:832][425]LogEditorTransaction: Undo 노드 추가
+[2017.09.27-14.14.02:287][110]LogEditorTransaction: Undo 노드 추가
+[2017.09.27-14.15.32:426][928]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lets_Create_Map' took 0.245
+[2017.09.27-14.15.32:428][928]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/super_hot_controller] ([1] browsable assets)...
+[2017.09.27-14.15.32:428][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/super_hot_controller]
+[2017.09.27-14.15.32:503][928]LogSavePackage: Save=56.01ms
+[2017.09.27-14.15.32:503][928]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/super_hot_controller_Auto1100D5BAD45354F3BD645DA810D8DF82D.tmp' to '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/Autosaves/Game/Blueprints/super_hot_controller_Auto1.uasset'
+[2017.09.27-14.15.32:503][928]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/Autosaves/Game/Blueprints/super_hot_controller_Auto1.uasset
+[2017.09.27-14.15.32:503][928]LogFileHelpers: Auto-saving content packages took 0.077
+[2017.09.27-14.16.13:936][207]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2017.09.27-14.16.17:985][678]LogActorFactory: Actor Factory created Cube
+[2017.09.27-14.16.25:469][532]LogActorFactory: Actor Factory created Cube
+[2017.09.27-14.16.26:168][615]LogActorFactory: Actor Factory created Cube
+[2017.09.27-14.17.16:742][870]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.17.20:883][870]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2017.09.27-14.17.20:889][870]LogPlayLevel: [PlayLevel] Compiling super_hot_controller before play...
+[2017.09.27-14.17.21:064][870]LogPlayLevel: PlayLevel: Blueprint regeneration took 181 ms (1 blueprints)
+[2017.09.27-14.17.21:112][870]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:17:21)
+[2017.09.27-14.17.21:113][870]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.17.21:138][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025518s)
+[2017.09.27-14.17.21:139][870]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.17.21:140][870]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2017.09.27-14.17.21:140][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.026981s)
+[2017.09.27-14.17.21:160][870]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.17.21:176][870]LogInit: FAudioDevice initialized.
+[2017.09.27-14.17.21:437][870]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.17.21:467][870]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.17.21
+[2017.09.27-14.17.21:479][870]LogWorld: Bringing up level for play took: 0.013495
+[2017.09.27-14.17.21:579][870]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.09.27-14.17.21:616][870]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: 0.588
+[2017.09.27-14.17.26:477][427]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.17.26:493][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.17.26:493][427]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:17:26)
+[2017.09.27-14.17.26:493][427]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.17.26:497][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003869s)
+[2017.09.27-14.17.26:498][427]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.17.26:498][427]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2017.09.27-14.17.26:498][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.004770s)
+[2017.09.27-14.17.26:519][427]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.17.26:535][427]LogInit: FAudioDevice initialized.
+[2017.09.27-14.17.26:566][427]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.17.26:568][427]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.17.26
+[2017.09.27-14.17.26:569][427]LogWorld: Bringing up level for play took: 0.001709
+[2017.09.27-14.17.26:570][427]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: -0.458
+[2017.09.27-14.17.29:069][712]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.17.29:084][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.17.29:085][712]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:17:29)
+[2017.09.27-14.17.29:085][712]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.17.29:088][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003059s)
+[2017.09.27-14.17.29:088][712]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.17.29:089][712]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2017.09.27-14.17.29:089][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.004109s)
+[2017.09.27-14.17.29:112][712]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.17.29:128][712]LogInit: FAudioDevice initialized.
+[2017.09.27-14.17.29:159][712]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.17.29:161][712]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.17.29
+[2017.09.27-14.17.29:161][712]LogWorld: Bringing up level for play took: 0.001630
+[2017.09.27-14.17.29:162][712]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: 0.134
+[2017.09.27-14.17.31:110][929]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.17.31:126][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.17.31:126][929]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:17:31)
+[2017.09.27-14.17.31:126][929]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.17.31:129][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003331s)
+[2017.09.27-14.17.31:130][929]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.17.31:130][929]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2017.09.27-14.17.31:130][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.004299s)
+[2017.09.27-14.17.31:154][929]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.17.31:171][929]LogInit: FAudioDevice initialized.
+[2017.09.27-14.17.31:201][929]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.17.31:203][929]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.17.31
+[2017.09.27-14.17.31:203][929]LogWorld: Bringing up level for play took: 0.001590
+[2017.09.27-14.17.31:204][929]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: 0.176
+[2017.09.27-14.18.34:892][691]BlueprintLog: New page: FPS_GameMode 컴파일
+[2017.09.27-14.18.35:382][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FPS_GameMode" FILE="../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/FPS_GameMode.uasset" SILENT=true
+[2017.09.27-14.18.35:421][732]LogSavePackage: Save=11.30ms
+[2017.09.27-14.18.35:421][732]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/FPS_GameMode5555D88B4E0E2D335E5B349EA56586D1.tmp' to '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/FPS_GameMode.uasset'
+[2017.09.27-14.18.35:423][732]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/FPS_GameMode.uasset
+[2017.09.27-14.18.52:557][157]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.LCFPSController
+[2017.09.27-14.18.52:557][157]LogTemp: CWD: D:\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.09.27-14.18.52:558][157]LogTemp: Initial Dir: D:\UE_4.17
+[2017.09.27-14.18.52:558][157]LogTemp: Env CWD: D:\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.09.27-14.18.52:558][157]LogTemp: BranchPath = DESKTOP-473DMHI/D/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-473DMHI/D/UE_4.17/Engine/Binaries
+[2017.09.27-14.18.52:571][158]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\USER-PC\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.09.27-14.21.02:462][499]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.21.02:479][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.21.02:479][499]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:21:02)
+[2017.09.27-14.21.02:479][499]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.21.02:483][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003824s)
+[2017.09.27-14.21.02:484][499]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.21.02:484][499]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2017.09.27-14.21.02:484][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.005124s)
+[2017.09.27-14.21.02:508][499]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.21.02:523][499]LogInit: FAudioDevice initialized.
+[2017.09.27-14.21.02:552][499]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.21.02:555][499]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.21.02
+[2017.09.27-14.21.02:555][499]LogWorld: Bringing up level for play took: 0.001786
+[2017.09.27-14.21.02:556][499]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: -0.472
+[2017.09.27-14.21.04:453][682]Cmd: SELECT NONE
+[2017.09.27-14.21.05:979][853]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.21.05:996][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.21.05:996][853]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:21:05)
+[2017.09.27-14.21.05:996][853]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.21.05:999][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003155s)
+[2017.09.27-14.21.06:000][853]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.21.06:000][853]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2017.09.27-14.21.06:000][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.003913s)
+[2017.09.27-14.21.06:022][853]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.21.06:037][853]LogInit: FAudioDevice initialized.
+[2017.09.27-14.21.06:070][853]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.21.06:072][853]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.21.06
+[2017.09.27-14.21.06:073][853]LogWorld: Bringing up level for play took: 0.001702
+[2017.09.27-14.21.06:074][853]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: 1.046
+[2017.09.27-14.21.11:472][490]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.21.11:488][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.21.11:489][490]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:21:11)
+[2017.09.27-14.21.11:489][490]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.21.11:492][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002946s)
+[2017.09.27-14.21.11:492][490]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.21.11:492][490]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2017.09.27-14.21.11:493][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.004044s)
+[2017.09.27-14.21.11:514][490]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.21.11:529][490]LogInit: FAudioDevice initialized.
+[2017.09.27-14.21.11:561][490]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.21.11:563][490]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.21.11
+[2017.09.27-14.21.11:563][490]LogWorld: Bringing up level for play took: 0.001684
+[2017.09.27-14.21.11:565][490]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: 0.537
+[2017.09.27-14.21.18:384][297]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.21.18:400][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.21.18:400][297]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:21:18)
+[2017.09.27-14.21.18:400][297]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.21.18:403][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003014s)
+[2017.09.27-14.21.18:404][297]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.21.18:404][297]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2017.09.27-14.21.18:404][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.003928s)
+[2017.09.27-14.21.18:426][297]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.21.18:441][297]LogInit: FAudioDevice initialized.
+[2017.09.27-14.21.18:470][297]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.21.18:472][297]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.21.18
+[2017.09.27-14.21.18:472][297]LogWorld: Bringing up level for play took: 0.001529
+[2017.09.27-14.21.18:473][297]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: -0.555
+[2017.09.27-14.21.24:927][ 61]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.21.24:944][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.21.24:944][ 61]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:21:24)
+[2017.09.27-14.21.24:944][ 61]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.21.24:948][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003091s)
+[2017.09.27-14.21.24:948][ 61]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.21.24:948][ 61]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2017.09.27-14.21.24:949][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.004239s)
+[2017.09.27-14.21.24:970][ 61]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.21.24:985][ 61]LogInit: FAudioDevice initialized.
+[2017.09.27-14.21.25:015][ 61]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.21.25:017][ 61]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.21.25
+[2017.09.27-14.21.25:017][ 61]LogWorld: Bringing up level for play took: 0.001646
+[2017.09.27-14.21.25:018][ 61]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: -0.01
+[2017.09.27-14.21.55:384][687]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.21.55:401][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.21.55:401][687]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:21:55)
+[2017.09.27-14.21.55:401][687]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.21.55:404][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002994s)
+[2017.09.27-14.21.55:404][687]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.21.55:405][687]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2017.09.27-14.21.55:405][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.003982s)
+[2017.09.27-14.21.55:427][687]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.21.55:442][687]LogInit: FAudioDevice initialized.
+[2017.09.27-14.21.55:472][687]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.21.55:474][687]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.21.55
+[2017.09.27-14.21.55:475][687]LogWorld: Bringing up level for play took: 0.001622
+[2017.09.27-14.21.55:476][687]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: 0.447
+[2017.09.27-14.22.46:437][ 62]LogMetaData: Removing '/Game/Blueprints/Bullet.Bullet:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.09.27-14.22.46:437][ 62]LogMetaData: Removing '/Game/Blueprints/Bullet.SKEL_Bullet_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.09.27-14.22.46:437][ 62]LogMetaData: Removing '/Game/Blueprints/Bullet.Bullet_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.09.27-14.22.46:437][ 62]LogMetaData: Removing '/Game/Blueprints/Bullet.Bullet:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.09.27-14.22.46:437][ 62]LogMetaData: Removing '/Game/Blueprints/Bullet.Bullet:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.09.27-14.22.46:437][ 62]LogMetaData: Removing '/Game/Blueprints/Bullet.Bullet:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2017.09.27-14.22.46:450][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bullet" FILE="../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/Bullet.uasset" SILENT=true
+[2017.09.27-14.22.46:461][ 62]LogSavePackage: Save=9.73ms
+[2017.09.27-14.22.46:461][ 62]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/Bullet0AF616664016CA6FAAE444A80228078E.tmp' to '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/Bullet.uasset'
+[2017.09.27-14.22.46:464][ 62]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/Bullet.uasset
+[2017.09.27-14.25.07:212][428]BlueprintLog: New page: Bullet 컴파일
+[2017.09.27-14.25.07:818][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bullet" FILE="../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/Bullet.uasset" SILENT=true
+[2017.09.27-14.25.07:933][465]LogSavePackage: Save=107.97ms
+[2017.09.27-14.25.07:933][465]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/BulletAB8975CD4912D1F6C6F1AE9CDE390492.tmp' to '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/Bullet.uasset'
+[2017.09.27-14.25.07:935][465]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/Bullet.uasset
+[2017.09.27-14.25.47:712][130]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.09.27-14.26.45:983][ 92]LogSavePackage: Save=75.34ms
+[2017.09.27-14.26.45:983][ 92]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/Lets_Create_Map_Auto23492E7D34B92DC5CA43C079E1F056328.tmp' to '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/Autosaves/Game/Maps/Lets_Create_Map_Auto2.umap'
+[2017.09.27-14.26.46:218][ 92]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/Autosaves/Game/Maps/Lets_Create_Map_Auto2.umap
+[2017.09.27-14.26.46:229][ 92]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Lets_Create_Map' took 0.342
+[2017.09.27-14.26.46:229][ 92]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.342
+[2017.09.27-14.26.46:234][ 92]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/super_hot_controller] ([1] browsable assets)...
+[2017.09.27-14.26.46:234][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/super_hot_controller]
+[2017.09.27-14.26.46:335][ 92]LogSavePackage: Save=76.27ms
+[2017.09.27-14.26.46:335][ 92]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/super_hot_controller_Auto2F57C303744195C48BED5E1B990B75300.tmp' to '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/Autosaves/Game/Blueprints/super_hot_controller_Auto2.uasset'
+[2017.09.27-14.26.46:336][ 92]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/Autosaves/Game/Blueprints/super_hot_controller_Auto2.uasset
+[2017.09.27-14.26.46:336][ 92]LogFileHelpers: Auto-saving content packages took 0.105
+[2017.09.27-14.26.56:363][845]BlueprintLog: New page: super_hot_controller 컴파일
+[2017.09.27-14.26.56:376][845]LogBlueprint: Error: [Compiler super_hot_controller] ' Spawn Transform ' 핀의 현재 값이 유효하지 않습니다: 'Spawn Transform' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2017.09.27-14.26.56:377][845]LogBlueprint: Error: [Compiler super_hot_controller] ' Spawn Transform ' 핀의 현재 값이 유효하지 않습니다: 'Spawn Transform' 핀에는 반드시 입력이 연결되어 있어야 합니다 ("by ref" 파라미터는 작업하기에 유효한 입력을 기대합니다).
+[2017.09.27-14.26.56:518][845]LogBlueprint: Warning: [Compiler super_hot_controller] [1369.44] super_hot_controller 컴파일에 실패했습니다. 치명적 오류 2 회, 경고 0 회, [소요시간 155 ms] (/Game/Blueprints/super_hot_controller.super_hot_controller)
+[2017.09.27-14.26.56:893][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/super_hot_controller" FILE="../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/super_hot_controller.uasset" SILENT=true
+[2017.09.27-14.26.56:942][879]LogSavePackage: Save=46.61ms
+[2017.09.27-14.26.56:942][879]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/super_hot_controller7D74B4664D2121280C761D980969C564.tmp' to '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/super_hot_controller.uasset'
+[2017.09.27-14.26.56:946][879]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/super_hot_controller.uasset
+[2017.09.27-14.28.17:186][518]LogEditorTransaction: Undo 노드 추가
+[2017.09.27-14.30.00:843][548]BlueprintLog: New page: super_hot_controller 컴파일
+[2017.09.27-14.31.12:820][207]BlueprintLog: New page: Bullet 컴파일
+[2017.09.27-14.31.14:255][338]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.31.14:274][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.31.14:274][338]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:31:14)
+[2017.09.27-14.31.14:274][338]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.31.14:277][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003364s)
+[2017.09.27-14.31.14:279][338]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.31.14:279][338]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2017.09.27-14.31.14:279][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.005050s)
+[2017.09.27-14.31.14:301][338]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.31.14:316][338]LogInit: FAudioDevice initialized.
+[2017.09.27-14.31.14:356][338]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.31.14:359][338]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.31.14
+[2017.09.27-14.31.14:359][338]LogWorld: Bringing up level for play took: 0.001904
+[2017.09.27-14.31.14:362][338]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: -0.666
+[2017.09.27-14.31.14:394][338]LogRenderer: Reallocating scene render targets to support 1292x900 Format 10 NumSamples 1 (Frame:1).
+[2017.09.27-14.31.15:514][444]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_0.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.15:514][444]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_0.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.15:515][444]PIE: Warning: Bullet_C_0.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.15:515][444]PIE: Warning: Bullet_C_0.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.16:743][575]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_1.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.16:743][575]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_1.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.16:743][575]PIE: Warning: Bullet_C_1.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.16:743][575]PIE: Warning: Bullet_C_1.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.17:780][699]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_2.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.17:780][699]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_2.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.17:780][699]PIE: Warning: Bullet_C_2.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.17:780][699]PIE: Warning: Bullet_C_2.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.17:947][719]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_3.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.17:947][719]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_3.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.17:947][719]PIE: Warning: Bullet_C_3.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.17:947][719]PIE: Warning: Bullet_C_3.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.18:097][737]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_4.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.18:097][737]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_4.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.18:097][737]PIE: Warning: Bullet_C_4.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.18:097][737]PIE: Warning: Bullet_C_4.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.18:830][825]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_5.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.18:830][825]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_5.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.18:830][825]PIE: Warning: Bullet_C_5.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.18:830][825]PIE: Warning: Bullet_C_5.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.19:738][934]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_6.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.19:738][934]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_6.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.19:738][934]PIE: Warning: Bullet_C_6.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.19:738][934]PIE: Warning: Bullet_C_6.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.21:797][181]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_7.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.21:797][181]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_7.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.21:797][181]PIE: Warning: Bullet_C_7.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.23:789][420]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_8.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.23:789][420]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_8.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.23:789][420]PIE: Warning: Bullet_C_8.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.25:139][582]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_9.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.25:139][582]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_9.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.25:139][582]PIE: Warning: Bullet_C_9.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.25:139][582]PIE: Warning: Bullet_C_9.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.25:747][655]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_10.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.25:747][655]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_10.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.25:747][655]PIE: Warning: Bullet_C_10.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.25:748][655]PIE: Warning: Bullet_C_10.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.26:522][748]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_11.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.26:522][748]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_11.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.26:523][748]PIE: Warning: Bullet_C_11.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.26:523][748]PIE: Warning: Bullet_C_11.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.27:522][868]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_12.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.27:522][868]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_12.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.27:522][868]PIE: Warning: Bullet_C_12.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.27:522][868]PIE: Warning: Bullet_C_12.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.27:905][914]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_13.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.27:906][914]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_13.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.27:906][914]PIE: Warning: Bullet_C_13.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.27:906][914]PIE: Warning: Bullet_C_13.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.28:205][950]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_14.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.28:206][950]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_14.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.28:206][950]PIE: Warning: Bullet_C_14.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.28:206][950]PIE: Warning: Bullet_C_14.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.29:072][ 54]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_15.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.29:072][ 54]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_15.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.29:072][ 54]PIE: Warning: Bullet_C_15.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.29:072][ 54]PIE: Warning: Bullet_C_15.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.29:864][149]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_16.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.29:864][149]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_16.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.29:864][149]PIE: Warning: Bullet_C_16.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.29:864][149]PIE: Warning: Bullet_C_16.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.30:772][258]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_17.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.30:772][258]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_17.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.30:772][258]PIE: Warning: Bullet_C_17.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.30:772][258]PIE: Warning: Bullet_C_17.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.31:572][354]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_18.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.31:572][354]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_18.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.31:572][354]PIE: Warning: Bullet_C_18.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.31:572][354]PIE: Warning: Bullet_C_18.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.32:864][509]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_19.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.32:864][509]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_19.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.32:864][509]PIE: Warning: Bullet_C_19.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.32:864][509]PIE: Warning: Bullet_C_19.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.33:514][587]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_20.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.33:514][587]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_20.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.33:514][587]PIE: Warning: Bullet_C_20.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.33:515][587]PIE: Warning: Bullet_C_20.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.34:581][715]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_21.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.34:581][715]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_21.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.34:581][715]PIE: Warning: Bullet_C_21.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.34:581][715]PIE: Warning: Bullet_C_21.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.37:590][ 76]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_22.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.37:590][ 76]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_22.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.37:590][ 76]PIE: Warning: Bullet_C_22.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.39:256][276]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_23.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.39:256][276]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_23.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.39:256][276]PIE: Warning: Bullet_C_23.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.39:256][276]PIE: Warning: Bullet_C_23.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.40:473][422]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_24.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.40:473][422]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_24.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.40:473][422]PIE: Warning: Bullet_C_24.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.40:473][422]PIE: Warning: Bullet_C_24.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.41:156][504]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_25.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.41:156][504]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_25.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.41:156][504]PIE: Warning: Bullet_C_25.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.41:156][504]PIE: Warning: Bullet_C_25.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.41:873][590]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_26.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.41:873][590]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_26.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.41:873][590]PIE: Warning: Bullet_C_26.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.41:873][590]PIE: Warning: Bullet_C_26.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.48:240][354]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_27.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.48:240][354]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_27.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.48:240][354]PIE: Warning: Bullet_C_27.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.48:240][354]PIE: Warning: Bullet_C_27.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.49:065][453]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_28.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.49:065][453]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_28.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.49:065][453]PIE: Warning: Bullet_C_28.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.49:065][453]PIE: Warning: Bullet_C_28.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.49:765][537]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_29.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.49:765][537]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_29.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.49:765][537]PIE: Warning: Bullet_C_29.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.49:765][537]PIE: Warning: Bullet_C_29.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.50:024][568]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_30.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.50:024][568]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_30.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.50:024][568]PIE: Warning: Bullet_C_30.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.50:024][568]PIE: Warning: Bullet_C_30.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.50:423][616]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_31.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.50:424][616]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_31.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.50:424][616]PIE: Warning: Bullet_C_31.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.50:424][616]PIE: Warning: Bullet_C_31.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.50:790][660]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_32.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.50:790][660]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_32.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.50:790][660]PIE: Warning: Bullet_C_32.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.50:791][660]PIE: Warning: Bullet_C_32.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.51:115][699]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_33.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.51:115][699]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_33.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.51:115][699]PIE: Warning: Bullet_C_33.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.51:116][699]PIE: Warning: Bullet_C_33.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.51:482][743]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_34.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.51:482][743]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_34.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.51:482][743]PIE: Warning: Bullet_C_34.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.51:482][743]PIE: Warning: Bullet_C_34.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.51:832][785]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_35.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.51:832][785]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_35.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.51:832][785]PIE: Warning: Bullet_C_35.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.51:832][785]PIE: Warning: Bullet_C_35.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.52:174][826]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_36.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.52:174][826]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_36.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.52:174][826]PIE: Warning: Bullet_C_36.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.52:174][826]PIE: Warning: Bullet_C_36.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.52:565][873]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_37.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.52:565][873]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_37.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.52:565][873]PIE: Warning: Bullet_C_37.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.52:565][873]PIE: Warning: Bullet_C_37.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.52:899][913]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_38.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.52:899][913]PIE: Warning: 유효하지 않은 시뮬레이션 옵션: (Bullet_C_38.Box) 바디가 피직스 시뮬레이션을 하도록 설정되어 있으나 Collision Enabled 가 호환되지 않습니다.
+[2017.09.27-14.31.52:899][913]PIE: Warning: Bullet_C_38.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.31.52:899][913]PIE: Warning: Bullet_C_38.Box: 'CollisionEnabled' (콜리전 활성화)를 'Query and Physics' (쿼리 및 피직스) 또는 'Physics only' (피직스 전용)으로 해야 임펄스 추가 가능합니다. 
+[2017.09.27-14.32.50:733][647]BlueprintLog: New page: Bullet 컴파일
+[2017.09.27-14.32.55:526][162]BlueprintLog: New page: super_hot_controller 컴파일
+[2017.09.27-14.32.56:278][229]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.32.56:297][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.32.56:297][229]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:32:56)
+[2017.09.27-14.32.56:297][229]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.32.56:300][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003033s)
+[2017.09.27-14.32.56:301][229]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.32.56:301][229]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2017.09.27-14.32.56:301][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.004189s)
+[2017.09.27-14.32.56:323][229]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.32.56:338][229]LogInit: FAudioDevice initialized.
+[2017.09.27-14.32.56:379][229]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.32.56:381][229]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.32.56
+[2017.09.27-14.32.56:381][229]LogWorld: Bringing up level for play took: 0.001953
+[2017.09.27-14.32.56:385][229]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: -0.643
+[2017.09.27-14.33.24:774][315]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.33.24:793][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.33.24:793][315]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:33:24)
+[2017.09.27-14.33.24:793][315]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.33.24:796][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003005s)
+[2017.09.27-14.33.24:797][315]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.33.24:797][315]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2017.09.27-14.33.24:797][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.004135s)
+[2017.09.27-14.33.24:819][315]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.33.24:835][315]LogInit: FAudioDevice initialized.
+[2017.09.27-14.33.24:875][315]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.33.24:877][315]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.33.24
+[2017.09.27-14.33.24:877][315]LogWorld: Bringing up level for play took: 0.001922
+[2017.09.27-14.33.24:881][315]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: -0.147
+[2017.09.27-14.34.22:832][361]BlueprintLog: New page: Bullet 컴파일
+[2017.09.27-14.34.42:235][982]BlueprintLog: New page: super_hot_controller 컴파일
+[2017.09.27-14.34.42:707][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/super_hot_controller" FILE="../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/super_hot_controller.uasset" SILENT=true
+[2017.09.27-14.34.42:769][ 13]LogSavePackage: Save=56.90ms
+[2017.09.27-14.34.42:769][ 13]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/super_hot_controller5E8881ED4C6211BBD3A50C9EBFC4471F.tmp' to '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/super_hot_controller.uasset'
+[2017.09.27-14.34.42:772][ 13]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/super_hot_controller.uasset
+[2017.09.27-14.34.56:471][597]BlueprintLog: New page: Bullet 컴파일
+[2017.09.27-14.34.57:151][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bullet" FILE="../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/Bullet.uasset" SILENT=true
+[2017.09.27-14.34.57:185][633]LogSavePackage: Save=27.52ms
+[2017.09.27-14.34.57:185][633]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/BulletD93EAF3940FDB145C04185897F03FD3D.tmp' to '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/Bullet.uasset'
+[2017.09.27-14.34.57:188][633]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/Bullet.uasset
+[2017.09.27-14.35.01:069][ 76]BlueprintLog: New page: super_hot_controller 컴파일
+[2017.09.27-14.35.01:519][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/super_hot_controller" FILE="../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/super_hot_controller.uasset" SILENT=true
+[2017.09.27-14.35.01:578][104]LogSavePackage: Save=56.29ms
+[2017.09.27-14.35.01:578][104]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/super_hot_controller04F27E86462E094E87EB93B3A4A6E48F.tmp' to '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/super_hot_controller.uasset'
+[2017.09.27-14.35.01:580][104]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/super_hot_controller.uasset
+[2017.09.27-14.35.03:329][311]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.35.03:348][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.35.03:348][311]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:35:03)
+[2017.09.27-14.35.03:349][311]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.35.03:353][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003951s)
+[2017.09.27-14.35.03:353][311]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.35.03:353][311]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2017.09.27-14.35.03:354][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.005027s)
+[2017.09.27-14.35.03:377][311]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.35.03:393][311]LogInit: FAudioDevice initialized.
+[2017.09.27-14.35.03:440][311]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.35.03:442][311]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.35.03
+[2017.09.27-14.35.03:442][311]LogWorld: Bringing up level for play took: 0.001780
+[2017.09.27-14.35.03:446][311]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: 0.418
+[2017.09.27-14.35.14:264][591]BlueprintLog: New page: super_hot_controller 컴파일
+[2017.09.27-14.35.14:976][652]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.35.14:995][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.35.14:995][652]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:35:14)
+[2017.09.27-14.35.14:995][652]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.35.14:998][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002991s)
+[2017.09.27-14.35.14:999][652]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.35.14:999][652]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2017.09.27-14.35.14:999][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.004029s)
+[2017.09.27-14.35.15:022][652]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.35.15:038][652]LogInit: FAudioDevice initialized.
+[2017.09.27-14.35.15:084][652]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.35.15:087][652]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.35.15
+[2017.09.27-14.35.15:087][652]LogWorld: Bringing up level for play took: 0.002733
+[2017.09.27-14.35.15:091][652]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: 0.063
+[2017.09.27-14.35.33:011][783]BlueprintLog: New page: super_hot_controller 컴파일
+[2017.09.27-14.35.33:750][847]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.35.33:769][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.35.33:769][847]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:35:33)
+[2017.09.27-14.35.33:769][847]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.35.33:773][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003297s)
+[2017.09.27-14.35.33:774][847]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.35.33:774][847]LogPlayLevel: PIE: World Init took: (0.000905s)
+[2017.09.27-14.35.33:774][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.004456s)
+[2017.09.27-14.35.33:797][847]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.35.33:813][847]LogInit: FAudioDevice initialized.
+[2017.09.27-14.35.33:859][847]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.35.33:862][847]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.35.33
+[2017.09.27-14.35.33:862][847]LogWorld: Bringing up level for play took: 0.001965
+[2017.09.27-14.35.33:865][847]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: 0.837
+[2017.09.27-14.36.09:648][407]BlueprintLog: New page: Bullet 컴파일
+[2017.09.27-14.36.10:334][446]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.36.10:353][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.36.10:353][446]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:36:10)
+[2017.09.27-14.36.10:353][446]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.36.10:356][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003166s)
+[2017.09.27-14.36.10:357][446]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.36.10:357][446]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2017.09.27-14.36.10:357][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.004296s)
+[2017.09.27-14.36.10:380][446]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.36.10:395][446]LogInit: FAudioDevice initialized.
+[2017.09.27-14.36.10:437][446]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.36.10:439][446]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.36.10
+[2017.09.27-14.36.10:439][446]LogWorld: Bringing up level for play took: 0.001881
+[2017.09.27-14.36.10:442][446]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: -0.586
+[2017.09.27-14.36.55:898][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bullet" FILE="../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/Bullet.uasset" SILENT=true
+[2017.09.27-14.36.55:917][884]LogSavePackage: Save=17.32ms
+[2017.09.27-14.36.55:917][884]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/Bullet67337B20468A170855368CB971524233.tmp' to '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/Bullet.uasset'
+[2017.09.27-14.36.55:920][884]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/Bullet.uasset
+[2017.09.27-14.37.36:575][967]BlueprintLog: New page: Bullet 컴파일
+[2017.09.27-14.37.37:208][  3]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.37.37:225][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.37.37:226][  3]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:37:37)
+[2017.09.27-14.37.37:226][  3]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.37.37:229][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003037s)
+[2017.09.27-14.37.37:230][  3]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.37.37:230][  3]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2017.09.27-14.37.37:230][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.004332s)
+[2017.09.27-14.37.37:252][  3]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.37.37:268][  3]LogInit: FAudioDevice initialized.
+[2017.09.27-14.37.37:309][  3]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.37.37:311][  3]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.37.37
+[2017.09.27-14.37.37:312][  3]LogWorld: Bringing up level for play took: 0.002123
+[2017.09.27-14.37.37:314][  3]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: 0.286
+[2017.09.27-14.37.47:231][161]BlueprintLog: New page: super_hot_controller 컴파일
+[2017.09.27-14.37.47:940][223]LogTemp: Repeating last play command: 선택된 뷰포트
+[2017.09.27-14.37.47:958][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.27-14.37.47:958][223]PIE: New page: PIE 세션: Lets_Create_Map (2017. 9. 28. 오전 8:37:47)
+[2017.09.27-14.37.47:959][223]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Lets_Create_Map
+[2017.09.27-14.37.47:962][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002946s)
+[2017.09.27-14.37.47:962][223]LogAIModule: Creating AISystem for world Lets_Create_Map
+[2017.09.27-14.37.47:963][223]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2017.09.27-14.37.47:963][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Lets_Create_Map.Lets_Create_Map to /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map (0.004334s)
+[2017.09.27-14.37.47:985][223]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.27-14.37.48:000][223]LogInit: FAudioDevice initialized.
+[2017.09.27-14.37.48:039][223]LogLoad: Game class is 'FPS_GameMode_C'
+[2017.09.27-14.37.48:042][223]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Lets_Create_Map.Lets_Create_Map up for play (max tick rate 0) at 2017.09.27-23.37.48
+[2017.09.27-14.37.48:042][223]LogWorld: Bringing up level for play took: 0.002016
+[2017.09.27-14.37.48:046][223]PIE: /Game/Maps/UEDPIE_0_Lets_Create_Map 에 대한 에디터에서 플레이 시작 시간: 1.018
+[2017.09.27-14.38.18:756][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/super_hot_controller" FILE="../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/super_hot_controller.uasset" SILENT=true
+[2017.09.27-14.38.18:812][889]LogSavePackage: Save=53.24ms
+[2017.09.27-14.38.18:812][889]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/super_hot_controller5DA64EC54EAC0AE10DF2978BEA10799E.tmp' to '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/super_hot_controller.uasset'
+[2017.09.27-14.38.18:814][889]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/super_hot_controller.uasset
+[2017.09.27-14.38.20:145][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bullet" FILE="../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/Bullet.uasset" SILENT=true
+[2017.09.27-14.38.20:165][911]LogSavePackage: Save=18.06ms
+[2017.09.27-14.38.20:165][911]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/Bullet79608E404D871E34641EC38EBAC73545.tmp' to '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/Bullet.uasset'
+[2017.09.27-14.38.20:167][911]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Blueprints/Bullet.uasset
+[2017.09.27-14.38.20:224][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lets_Create_Map" FILE="../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Maps/Lets_Create_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.27-14.38.20:322][911]LogSavePackage: Save=77.58ms
+[2017.09.27-14.38.20:322][911]LogSavePackage: Moving '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Saved/Lets_Create_Map55D0B95D4BB755D9E82547A29FAE94B0.tmp' to '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Maps/Lets_Create_Map.umap'
+[2017.09.27-14.38.20:324][911]LogSavePackage: Display: Finished SavePackage ../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/Maps/Lets_Create_Map.umap
+[2017.09.27-14.38.20:349][911]LogFileHelpers: Saving map 'Lets_Create_Map' took 0.179
+[2017.09.27-14.38.20:521][911]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.09.27-14.38.20:596][911]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.09.27-14.38.20:832][912]Cmd: QUIT_EDITOR
+[2017.09.27-14.38.21:717][912]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2017.09.27-14.38.21:727][912]LogExit: Preparing to exit.
+[2017.09.27-14.38.22:766][912]LogDirectoryWatcher: A directory notification for 'D:/전공모음/Unreal_Projects/LC_FPS_Controller/Content/' was aborted.
+[2017.09.27-14.38.22:833][912]LogExit: Editor shut down
+[2017.09.27-14.38.22:845][912]LogExit: Transaction tracking system shut down
+[2017.09.27-14.38.22:997][912]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.09.27-14.38.22:997][912]LogDirectoryWatcher: A directory notification for '../../../../전공모음/Unreal_Projects/LC_FPS_Controller/Content/' was aborted.
+[2017.09.27-14.38.22:997][912]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.09.27-14.38.22:997][912]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.09.27-14.38.22:997][912]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.09.27-14.38.23:406][912]LogExit: Object subsystem successfully closed.
+[2017.09.27-14.38.23:457][912]LogD3D11RHI: Shutdown
+[2017.09.27-14.38.23:457][912]LogD3D11RHI: CleanupD3DDevice
+[2017.09.27-14.38.23:540][912]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.09.27-14.38.23:673][912]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (540)
+[2017.09.27-14.38.23:673][912]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (538)
+[2017.09.27-14.38.23:673][912]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (536)
+[2017.09.27-14.38.23:673][912]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2017.09.27-14.38.23:673][912]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2017.09.27-14.38.23:673][912]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.09.27-14.38.23:673][912]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.09.27-14.38.23:673][912]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.09.27-14.38.23:673][912]LogDirectoryWatcher: A directory notification for 'D:/UE_4.17/FeaturePacks/' was aborted.
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.09.27-14.38.23:674][912]LogDirectoryWatcher: A directory notification for 'D:/전공모음/Unreal_Projects/LC_FPS_Controller/Content/Collections/' was aborted.
+[2017.09.27-14.38.23:674][912]LogDirectoryWatcher: A directory notification for 'D:/전공모음/Unreal_Projects/LC_FPS_Controller/Content/Developers/USERPC/Collections/' was aborted.
+[2017.09.27-14.38.23:674][912]LogDirectoryWatcher: A directory notification for 'D:/전공모음/Unreal_Projects/LC_FPS_Controller/Saved/Collections/' was aborted.
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.09.27-14.38.23:674][912]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.09.27-14.38.23:679][912]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.09.27-14.38.23:679][912]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.09.27-14.38.23:679][912]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.09.27-14.38.23:679][912]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.09.27-14.38.23:679][912]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.09.27-14.38.23:679][912]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.09.27-14.38.23:679][912]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.09.27-14.38.23:679][912]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.09.27-14.38.23:679][912]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.09.27-14.38.23:679][912]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.09.27-14.38.23:679][912]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.09.27-14.38.23:679][912]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.09.27-14.38.23:679][912]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.09.27-14.38.23:679][912]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.09.27-14.38.23:679][912]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.09.27-14.38.23:679][912]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.09.27-14.38.23:687][912]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.09.27-14.38.23:687][912]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.09.27-14.38.23:687][912]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.09.27-14.38.23:688][912]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.09.27-14.38.23:688][912]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.09.27-14.38.23:688][912]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.09.27-14.38.23:688][912]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.09.27-14.38.23:824][912]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.09.27-14.38.23:824][912]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.09.27-14.38.23:824][912]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.09.27-14.38.23:824][912]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.09.27-14.38.23:824][912]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.09.27-14.38.23:833][912]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.09.27-14.38.23:833][912]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.09.27-14.38.23:833][912]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.09.27-14.38.23:833][912]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.09.27-14.38.23:838][912]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.09.27-14.38.23:838][912]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.09.27-14.38.23:838][912]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.09.27-14.38.23:838][912]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.09.27-14.38.23:838][912]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.09.27-14.38.23:838][912]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.09.27-14.38.23:838][912]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.09.27-14.38.23:838][912]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.09.27-14.38.23:838][912]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.09.27-14.38.23:838][912]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.09.27-14.38.23:838][912]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.09.27-14.38.23:842][912]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.09.27-14.38.23:842][912]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.09.27-14.38.23:849][912]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.09.27-14.38.23:849][912]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.09.27-14.38.23:903][912]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.09.27-14.38.23:903][912]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.09.27-14.38.23:915][912]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.09.27-14.38.23:927][912]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.09.27-14.38.23:927][912]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.09.27-14.38.23:927][912]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.09.27-14.38.23:928][912]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.09.27-14.38.23:939][912]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.09.27-14.38.23:939][912]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.09.27-14.38.23:939][912]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.09.27-14.38.23:957][912]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.09.27-14.38.23:961][912]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.09.27-14.38.23:961][912]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.09.27-14.38.23:973][912]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.09.27-14.38.23:973][912]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.09.27-14.38.23:973][912]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.09.27-14.38.23:973][912]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.09.27-14.38.23:974][912]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.09.27-14.38.23:992][912]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.09.27-14.38.23:992][912]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.09.27-14.38.23:992][912]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.09.27-14.38.24:001][912]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.09.27-14.38.24:001][912]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.09.27-14.38.24:001][912]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.09.27-14.38.24:001][912]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.09.27-14.38.24:001][912]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.09.27-14.38.24:001][912]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.09.27-14.38.24:001][912]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.09.27-14.38.24:001][912]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.09.27-14.38.24:001][912]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.09.27-14.38.24:001][912]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.09.27-14.38.24:181][912]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.09.27-14.38.24:187][912]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.09.27-14.38.24:187][912]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.09.27-14.38.24:187][912]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.09.27-14.38.24:187][912]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.09.27-14.38.24:187][912]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.09.27-14.38.24:187][912]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.09.27-14.38.24:187][912]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.09.27-14.38.24:187][912]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.09.27-14.38.24:187][912]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.09.27-14.38.24:187][912]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.09.27-14.38.24:196][912]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.09.27-14.38.24:196][912]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.09.27-14.38.24:199][912]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.09.27-14.38.24:199][912]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.09.27-14.38.24:199][912]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.09.27-14.38.24:199][912]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.09.27-14.38.24:199][912]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.09.27-14.38.24:210][912]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.09.27-14.38.24:210][912]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.09.27-14.38.24:211][912]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.09.27-14.38.24:211][912]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.09.27-14.38.24:211][912]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.09.27-14.38.24:211][912]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.09.27-14.38.24:211][912]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.09.27-14.38.24:211][912]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.09.27-14.38.24:211][912]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.09.27-14.38.24:211][912]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.09.27-14.38.24:211][912]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.09.27-14.38.24:211][912]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.09.27-14.38.24:211][912]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.09.27-14.38.24:211][912]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.09.27-14.38.24:211][912]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.09.27-14.38.24:211][912]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.09.27-14.38.24:212][912]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.09.27-14.38.24:212][912]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.09.27-14.38.24:212][912]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.09.27-14.38.24:212][912]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.09.27-14.38.24:212][912]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.09.27-14.38.24:212][912]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.09.27-14.38.24:212][912]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.09.27-14.38.24:212][912]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.09.27-14.38.24:212][912]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.09.27-14.38.24:313][912]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.09.27-14.38.24:414][912]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.09.27-14.38.24:414][912]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.09.27-14.38.24:414][912]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.09.27-14.38.24:414][912]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.09.27-14.38.24:414][912]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.09.27-14.38.24:414][912]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.09.27-14.38.24:417][912]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.09.27-14.38.24:417][912]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.09.27-14.38.24:417][912]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.09.27-14.38.24:417][912]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.09.27-14.38.24:417][912]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.09.27-14.38.24:417][912]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.09.27-14.38.24:417][912]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.09.27-14.38.24:429][912]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.09.27-14.38.24:429][912]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.09.27-14.38.24:429][912]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.09.27-14.38.24:429][912]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.09.27-14.38.24:438][912]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.09.27-14.38.24:443][912]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.09.27-14.38.24:443][912]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.09.27-14.38.24:454][912]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.09.27-14.38.24:454][912]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.09.27-14.38.24:454][912]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.09.27-14.38.24:454][912]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.09.27-14.38.24:462][912]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.09.27-14.38.24:470][912]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.09.27-14.38.24:475][912]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.09.27-14.38.24:475][912]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.09.27-14.38.24:487][912]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.09.27-14.38.24:488][912]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.09.27-14.38.24:494][912]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.09.27-14.38.24:494][912]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.09.27-14.38.24:494][912]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.09.27-14.38.24:494][912]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.09.27-14.38.24:494][912]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.09.27-14.38.24:494][912]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.09.27-14.38.24:494][912]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.09.27-14.38.24:494][912]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.09.27-14.38.24:494][912]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.09.27-14.38.24:504][912]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.09.27-14.38.24:515][912]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.09.27-14.38.24:515][912]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.09.27-14.38.24:525][912]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.09.27-14.38.24:525][912]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.09.27-14.38.24:526][912]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.09.27-14.38.24:526][912]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.09.27-14.38.24:529][912]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.09.27-14.38.24:548][912]LogDerivedDataCache: Shutdown
+[2017.09.27-14.38.24:548][912]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.09.27-14.38.24:549][912]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.09.27-14.38.24:549][912]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.09.27-14.38.24:554][912]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.09.27-14.38.24:558][912]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.09.27-14.38.24:559][912]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.09.27-14.38.24:568][912]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.09.27-14.38.24:568][912]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.09.27-14.38.24:569][912]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.09.27-14.38.24:569][912]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.09.27-14.38.24:569][912]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.09.27-14.38.24:569][912]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.09.27-14.38.24:569][912]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.09.27-14.38.24:569][912]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.09.27-14.38.24:569][912]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.09.27-14.38.24:569][912]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.09.27-14.38.24:569][912]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.09.27-14.38.24:569][912]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.09.27-14.38.24:569][912]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.09.27-14.38.24:570][912]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.09.27-14.38.24:570][912]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.09.27-14.38.24:570][912]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.09.27-14.38.24:570][912]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.09.27-14.38.24:570][912]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.09.27-14.38.24:570][912]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.09.27-14.38.24:570][912]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.09.27-14.38.24:570][912]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.09.27-14.38.24:570][912]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.09.27-14.38.24:570][912]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.09.27-14.38.24:570][912]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.09.27-14.38.24:571][912]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.09.27-14.38.24:571][912]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.09.27-14.38.24:571][912]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.09.27-14.38.24:571][912]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.09.27-14.38.24:571][912]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.09.27-14.38.24:571][912]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.09.27-14.38.24:571][912]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.09.27-14.38.24:571][912]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.09.27-14.38.24:571][912]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.09.27-14.38.24:571][912]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.09.27-14.38.24:572][912]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.09.27-14.38.24:572][912]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.09.27-14.38.24:572][912]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.09.27-14.38.24:572][912]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.09.27-14.38.24:572][912]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.09.27-14.38.24:572][912]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.09.27-14.38.24:572][912]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.09.27-14.38.24:572][912]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.09.27-14.38.24:572][912]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.09.27-14.38.24:572][912]LogOnline: Display: Unloading online subsystem: NULL
+[2017.09.27-14.38.24:588][912]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.09.27-14.38.24:599][912]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.09.27-14.38.24:599][912]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2017.09.27-14.38.24:599][912]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7EBEC11A-4467-4C29-70E8-B49F6302D10B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=ccacb9eb4ff92296588f799bd42c27c8%7Ce9abd0643c81437cbe0d3af0070a4d48%7C9565a66c-b485-4c2f-8d2b-6600b6da4d65&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.09.27-14.38.24:599][912]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7EBEC11A-4467-4C29-70E8-B49F6302D10B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=ccacb9eb4ff92296588f799bd42c27c8%7Ce9abd0643c81437cbe0d3af0070a4d48%7C9565a66c-b485-4c2f-8d2b-6600b6da4d65&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.09.27-14.38.24:599][912]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2017.09.27-14.38.25:134][912]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.09.27-14.38.25:138][912]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.09.27-14.38.25:138][912]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.09.27-14.38.25:138][912]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.09.27-14.38.25:249][912]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.09.27-14.38.25:249][912]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.09.27-14.38.25:249][912]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.09.27-14.38.25:249][912]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.09.27-14.38.25:257][912]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.09.27-14.38.25:264][912]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.09.27-14.38.25:264][912]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.09.27-14.38.25:264][912]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.09.27-14.38.25:264][912]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.09.27-14.38.25:264][912]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.09.27-14.38.25:264][912]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.09.27-14.38.25:264][912]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.09.27-14.38.25:264][912]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.09.27-14.38.25:264][912]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.09.27-14.38.25:264][912]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.09.27-14.38.25:267][912]LogExit: Exiting.
+[2017.09.27-14.38.25:282][912]Log file closed, 09/27/17 23:38:25
